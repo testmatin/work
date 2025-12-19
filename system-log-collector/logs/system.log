@@ -1,0 +1,72 @@
+==========================
+Log Time: 2025-12-20 01:23:11
+Uptime:
+ 01:23:11 up 7 min,  1 user,  load average: 0.00, 0.00, 0.00
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.7Gi       496Mi       6.8Gi       3.5Mi       546Mi       7.2Gi
+Swap:          2.0Gi          0B       2.0Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         238G  213G   26G  90% /usr/lib/wsl/drivers
+/dev/sdd       1007G  9.9G  946G   2% /
+none            3.9G   76K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  532K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             238G  213G   26G  90% /mnt/c
+D:\             213G   38G  175G  18% /mnt/d
+E:\             203G   79G  125G  39% /mnt/e
+F:\             181G   80G  102G  44% /mnt/f
+tmpfs           787M   20K  787M   1% /run/user/1000
+
+Top Processes:
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         186  0.2  0.5 975128 45432 ?        Ssl  01:15   0:00 /usr/bin/python3 /usr/bin/fail2ban-server -xf start
+root         254  0.0  0.2 107032 22016 ?        Ssl  01:15   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          62  0.0  0.2  66876 16376 ?        S<s  01:15   0:00 /usr/lib/systemd/systemd-journald
+root           1  0.4  0.1  22168 12780 ?        Ss   01:15   0:02 /sbin/init
+==========================
+Log Time: 2025-12-20 01:25:04
+Uptime:
+ 01:25:04 up 9 min,  1 user,  load average: 0.00, 0.00, 0.00
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.7Gi       494Mi       6.8Gi       3.5Mi       546Mi       7.2Gi
+Swap:          2.0Gi          0B       2.0Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         238G  213G   26G  90% /usr/lib/wsl/drivers
+/dev/sdd       1007G  9.9G  946G   2% /
+none            3.9G   76K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  532K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             238G  213G   26G  90% /mnt/c
+D:\             213G   38G  175G  18% /mnt/d
+E:\             203G   79G  125G  39% /mnt/e
+F:\             181G   80G  102G  44% /mnt/f
+tmpfs           787M   20K  787M   1% /run/user/1000
+
+Top Processes:
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         186  0.1  0.5 975128 45432 ?        Ssl  01:15   0:00 /usr/bin/python3 /usr/bin/fail2ban-server -xf start
+root         254  0.0  0.2 107032 22016 ?        Ssl  01:15   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          62  0.0  0.2  66876 16376 ?        S<s  01:15   0:00 /usr/lib/systemd/systemd-journald
+root           1  0.3  0.1  22168 12780 ?        Ss   01:15   0:02 /sbin/init
